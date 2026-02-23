@@ -1,6 +1,23 @@
+<p align="center">
+  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_keyboard.gif" alt="Google Docs & Drive Toolkit" width="128" style="image-rendering: pixelated;" />
+</p>
+
+<h1 align="center">Google Docs & Drive Toolkit</h1>
+
+<p align="center">
+  <em>Python library + CLI for Google Docs & Drive automation</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/google-docs-drive-toolkit/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/google-docs-drive-toolkit?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/google-docs-drive-toolkit/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/google-docs-drive-toolkit?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/google-docs-drive-toolkit/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/google-docs-drive-toolkit?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Python-aa8142?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
 > **"The best automation makes collaboration feel effortless."**
 
-# Google Docs & Drive Toolkit
 
 A Python library and CLI for full CRUD operations on Google Drive and Google Docs. Create formatted documents from markdown, manage folder hierarchies, and build professional collaboration spaces -- all from code.
 
