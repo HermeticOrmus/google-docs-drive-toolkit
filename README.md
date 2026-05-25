@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_book.gif" alt="Google Docs & Drive Toolkit" width="128" style="image-rendering: pixelated;" />
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="Google Docs & Drive Toolkit" width="128" style="image-rendering: pixelated;" />
 </p>
 
 <h1 align="center">Google Docs & Drive Toolkit</h1>
